@@ -1,2 +1,2 @@
-.winNavbar{list-style:none}.winNavbar li{display:inline-block}
+.winNavbar{list-style:none}.winNavbar li{display:inline-block;width:25%}.winNavbar li ul{list-style:none}.winNavbar li ul li{display:inline-block;width:25%}
 /*# sourceMappingURL=index.css.map */
